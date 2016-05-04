@@ -2,7 +2,7 @@ Lecture assignment - using Github on the command line, download a repo, modify a
  
 	a. MacOS version (using OSX terminal). All steps below assume use of the command line:
 		1) Create a custom directory for your assignment
-		2) Using Github and the "git clone" command, download the "CET3510_Lecture_assignments" repository from my Github site (https://github.com/HudsonWerks).
+		2) Using Github and the "git clone" command, download the "CET3510_Lecture_assignments" repository
 		3) Using the nano text editor open the file "ground_control_mac.asm"
 		4) Edit the message and include your name
 		5) Save and close the file
@@ -19,7 +19,7 @@ Lecture assignment - using Github on the command line, download a repo, modify a
 
 	b. Windows version (using Cygwin, Putty, or Virtual Machine). All steps below assume use of the command line:
 		1) Create a custom directory for your assignment
-		2) Using Github and the "git clone" command, download the "CET3510_Lecture_assignments" repository from my Github site (https://github.com/HudsonWerks).
+		2) Using Github and the "git clone" command, download the "CET3510_Lecture_assignments" repository
 		3) Using the nano text editor open the file "ground_control_win.asm"
 		4) Edit the message and include your name
 		5) Save and close the file
