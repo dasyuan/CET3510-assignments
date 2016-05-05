@@ -1,7 +1,7 @@
 ; ----------------------------------------------------------------------------
 ; ground_control_win.asm
 ;
-; This is a Win32 console program that writes "Ground Control to Major Tom"on one line and
+; Thisis a Win32 console program that writes "Ground Control to Major Tom"on one line and
 ; then exits.  It needs to be linked with a C library.
 ; ----------------------------------------------------------------------------
 
