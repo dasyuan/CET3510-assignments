@@ -1,3 +1,6 @@
+; ground_control_mac.asm
+; code version for mac OSX
+
 global start
 start:
         mov rdi, 1              ; write to standard out = 1
