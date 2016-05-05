@@ -1,4 +1,4 @@
-Lecture assignment - using Github on the command line, download a repo, modify a file, then publish (upload) the modification back to the repo. You will use the file that's relevant to the desktop/laptop you're using, viz., the _mac for a Mac, the _win file for a Windows machine.
+Lab assignment - using Github on the command line, download a repo, modify a file, then publish (upload) the modification back to the repo. You will use the file that's relevant to the desktop/laptop you're using, viz., the _mac for a Mac, the _win file for a Windows machine.
  
 	a. MacOS version (using OSX terminal). All steps below assume use of the command line:
 		1) Create a custom directory for your assignment
